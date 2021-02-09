@@ -1,6 +1,6 @@
 {
-	"ip":"pg_kurdish_java.aternos.me",
+	"ip":"pg_kurdish.aternos.me",
 	"port": "52952",
 	"name": "YT_PG_KURDISH",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
